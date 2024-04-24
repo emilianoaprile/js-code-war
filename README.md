@@ -1,4 +1,4 @@
-# Repository di Esercizi Codewars
+# Esercizi Codewars
 
 ## Introduzione
 
